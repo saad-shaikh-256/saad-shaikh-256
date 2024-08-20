@@ -14,7 +14,7 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma" height="32" alt="figma logo"  />
-  
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo"  />
