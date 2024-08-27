@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻!<br><br>I'm Saad Shaikh and I'm a Web Developer & Ui Designer from Gujarat, INDIA</h1>
+<h1 align="center">Hi,I'm Saad Shaikh👋🏻! I'm a Web Developer & Ui Designer from Gujarat, INDIA</h1>
 
 <div align="center">
   <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQGlLoC_AuFsAg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713769080974?e=1729728000&v=beta&t=IWMOtenVXRd6I9OCseLbHdge-ykrEGlWO0DgJhSRSHQ"  />
