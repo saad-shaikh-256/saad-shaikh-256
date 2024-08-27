@@ -1,5 +1,4 @@
-<h1 align="center">Hi,I'm Saad Shaikh👋🏻!</h1> ###
-<hr>
+<h1 align="center">Hi,I'm Saad Shaikh👋🏻!</h1><hr>
 <h4>I'm a Web Developer & Ui Designer from Gujarat, INDIA</h4>
 
 <div align="center">
