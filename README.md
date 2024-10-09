@@ -1,19 +1,31 @@
-<h1 align="center">Hi 👋🏼, I'm Saad Shaikh</h1>
-<h3 align="center">A passionate UI Designer & Web Developer from India</h3>
+# 💻 Hello, I'm Saad Shaikh!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saad-shaikh-256&label=Profile%20views&color=0e75b6&style=flat" alt="saad-shaikh-256" /> </p>
+### MCA Student | UI/UX Designer | Front-end Developer
 
-- 📫 How to reach me **shaikhsaad256@gmail.com**
+I am a passionate MCA student at LJ University, focusing on UI design and front-end development. I enjoy creating intuitive and aesthetically pleasing user interfaces for web and mobile applications.
 
-- 📄 Resume : https://drive.google.com/file/d/1CW5QpMCJmwasuE8tAeJ846BiKAbiXmtJ/view?usp=sharing
+- 🌱 I’m currently learning and working on **modern web and mobile technologies**
+- 👨‍💻 My primary focus is on **UI/UX design** and **front-end development**
+- 🚀 I’m passionate about crafting **responsive** and **user-friendly interfaces**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saad_shaikh_256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saad_shaikh_256" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saad-shaikh256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad-shaikh256" height="30" width="40" /></a>
-<a href="https://fb.com/saad.shaikh.256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saad.shaikh.256" height="30" width="40" /></a>
-<a href="https://instagram.com/saad.shaikh.256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saad.shaikh.256" height="30" width="40" /></a>
-<a href="https://dribbble.com/saad-shaikh-256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="saad-shaikh-256" height="30" width="40" /></a>
-<a href="https://www.behance.net/saad-shaikh-256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="saad-shaikh-256" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@saad.shaikh.256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saad.shaikh.256" height="30" width="40" /></a>
-</p>
+---
+
+## 🔧 Technologies & Tools
+
+- **Front-end**: HTML5, CSS3, Media Queries and Responsive Design
+- **UI/UX**: Figma, Prototyping and Wireframing
+- **Backend**: PHP, Laravel and DJANGO 
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [saad-shaikh256L](https://www.linkedin.com/in/saad-shaikh256/)
+- Email: [shaikhsaad256@gmail.com](mailto:shaikhsaad256@gmail.com)
+- Resume: [Saad Shaikh ~ CV](https://drive.google.com/file/d/1CW5QpMCJmwasuE8tAeJ846BiKAbiXmtJ/view)
+
+Feel free to reach out if you'd like to collaborate or discuss projects related to UI design or front-end development
+
+---
+
+## ⚡ Fun Fact
+When I’m not coding or designing, you can find me experimenting with new design trends or learning about new cutting-edge technologies.
