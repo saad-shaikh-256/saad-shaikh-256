@@ -21,7 +21,7 @@ I am a passionate MCA student at LJ University, focusing on UI design and front-
 
 - LinkedIn: [saad-shaikh256L](https://www.linkedin.com/in/saad-shaikh256/)
 - Email: [shaikhsaad256@gmail.com](mailto:shaikhsaad256@gmail.com)
-- Resume: [Saad Shaikh ~ CV](https://drive.google.com/file/d/1CW5QpMCJmwasuE8tAeJ846BiKAbiXmtJ/view)
+- Resume: [Saad Shaikh ~ CV](https://drive.google.com/file/d/1j6ylAQGowWxQYXTjTFi3i8NaYCxxLGjm/view?usp=drive_link)
 
 Feel free to reach out if you'd like to collaborate or discuss projects related to UI design or front-end development
 
