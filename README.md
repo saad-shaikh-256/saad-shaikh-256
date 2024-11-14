@@ -29,3 +29,9 @@ Feel free to reach out if you'd like to collaborate or discuss projects related 
 
 ## ⚡ Fun Fact
 When I’m not coding or designing, you can find me experimenting with new design trends or learning about new cutting-edge technologies.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saad-shaikh-256/saad-shaikh-256/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saad-shaikh-256/saad-shaikh-256/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/saad-shaikh-256/saad-shaikh-256/output/github-snake.svg" />
+</picture>
