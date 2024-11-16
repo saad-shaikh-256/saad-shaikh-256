@@ -2,9 +2,9 @@
 
 ### Web-Developer | UI/UX Designer | Front-end Developer | MCA Student
 
-<div align="Center">
+<p align="Center">
 [![](https://visitcount.itsvg.in/api?id=saad-shaikh-256&icon=6&color=0)]
-</div>
+</p>
 
 - 🌱 I’m currently learning and working on **modern web and mobile technologies**
 - 👨‍💻 My primary focus is on **UI/UX design** and **front-end development**
