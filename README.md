@@ -1,6 +1,8 @@
-# 💻 Hello, I'm Saad Shaikh!
+# Hi, I'm Saad Shaikh!
 
-### MCA Student | UI/UX Designer | Front-end Developer
+### Web-Developer | UI/UX Designer | Front-end Developer | MCA Student
+
+<img align="right" src="https://media.tenor.com/-hWWcfwUzTAAAAAi/when-you.gif"
 
 I am a passionate MCA student at LJ University, focusing on UI design and front-end development. I enjoy creating intuitive and aesthetically pleasing user interfaces for web and mobile applications.
 
