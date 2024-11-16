@@ -6,7 +6,7 @@
 ### Web-Developer | UI/UX Designer | Front-end Developer | MCA Student
 
 <p align="center">
-  <img src="https://media.tenor.com/images/84f0a03e8d905073e07e72470a75f376/tenor.gif" alt="Anime Wave Hello" width="200"/>
+  <img src="https://tenor.com/view/anime-wave-hello-chibi-greetings-gif-9607410651681348522" alt="Hello gif" width="400"/>
 </p>
 
 
