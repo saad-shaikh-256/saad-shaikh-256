@@ -2,17 +2,7 @@
 
 ### Web-Developer | UI/UX Designer | Front-end Developer | MCA Student
 
-# Hi, I'm Saad Shaikh!  
-### Web-Developer | UI/UX Designer | Front-end Developer | MCA Student
-
-<p align="center">
-  <img src="https://tenor.com/view/anime-wave-hello-chibi-greetings-gif-9607410651681348522" alt="Hello gif" width="400"/>
-</p>
-
-
-
-
-I am a passionate MCA student at LJ University, focusing on UI design and front-end development. I enjoy creating intuitive and aesthetically pleasing user interfaces for web and mobile applications.
+[![](https://visitcount.itsvg.in/api?id=saad-shaikh-256&icon=6&color=0)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning and working on **modern web and mobile technologies**
 - 👨‍💻 My primary focus is on **UI/UX design** and **front-end development**
