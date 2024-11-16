@@ -5,9 +5,10 @@
 # Hi, I'm Saad Shaikh!  
 ### Web-Developer | UI/UX Designer | Front-end Developer | MCA Student
 
-<div style="float: right; margin-left: 20px;">
+<p align="center">
   <img src="https://media.tenor.com/images/84f0a03e8d905073e07e72470a75f376/tenor.gif" alt="Anime Wave Hello" width="200"/>
-</div>
+</p>
+
 
 
 
