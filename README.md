@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning and working with **Modern Web and Mobile Technologies**.
 - 👨‍💻 My main focus is on **Front-end Development** and **UI/UX design** .
 - 🚀 I like building **responsive** and **user-friendly interfaces**.
--⚡ **Fun Fact**: When I’m not coding or designing, I like experimenting with new design trends or learning about new technologies.
+- ⚡ **Fun Fact**: When I’m not coding or designing, I like experimenting with new design trends or learning about new technologies.
 
 ---
 
