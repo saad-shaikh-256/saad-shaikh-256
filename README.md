@@ -2,7 +2,14 @@
 
 ### Web-Developer | UI/UX Designer | Front-end Developer | MCA Student
 
-<img align="right" src="https://media.tenor.com/-hWWcfwUzTAAAAAi/when-you.gif"
+# Hi, I'm Saad Shaikh!  
+### Web-Developer | UI/UX Designer | Front-end Developer | MCA Student
+
+<div style="float: right; margin-left: 20px;">
+  <img src="https://media.tenor.com/images/84f0a03e8d905073e07e72470a75f376/tenor.gif" alt="Anime Wave Hello" width="200"/>
+</div>
+
+
 
 I am a passionate MCA student at LJ University, focusing on UI design and front-end development. I enjoy creating intuitive and aesthetically pleasing user interfaces for web and mobile applications.
 
