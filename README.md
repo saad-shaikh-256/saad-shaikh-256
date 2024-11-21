@@ -15,9 +15,8 @@
 
 ## 📫 Let's Connect
 
-- LinkedIn: [saad-shaikh256](https://www.linkedin.com/in/saad-shaikh256/)
 - Email: [shaikhsaad256@gmail.com](mailto:shaikhsaad256@gmail.com)
-- Resume: [Saad Shaikh ~ CV](https://drive.google.com/file/d/1j6ylAQGowWxQYXTjTFi3i8NaYCxxLGjm/view?usp=drive_link)
+- Resume: [Saad Shaikh ~ CV](https://drive.google.com/file/d/1N2JWVo4ynEAEsJqwgFz2jmcy77lS4zHt/view?usp=sharing)
 
 ## 🫱🏼‍🫲🏼 Socials
 
