@@ -33,6 +33,21 @@
 
 Feel free to reach out if you'd like to collaborate or discuss projects related to UI design or front-end development
 
+
+```cpp
+  ____        _        _        ____  
+ / ___|      / \      / \      |  _ \ 
+ \___ \     / _ \    / _ \     | | | |
+  ___) |   / ___ \  / ___ \    | |_| |
+ |____/   /_/   \_\/_/   \_\   |____/  
+
+  ____    _   _      _        ___    _  __   _   _  
+ / ___|  | | | |    / \      |_ _|  | |/ /  | | | | 
+ \___ \  | |_| |   / _ \      | |   | ' /   | |_| | 
+  ___) | |  _  |  / ___ \     | |   | . \   |  _  | 
+ |____/  |_| |_| /_/   \_\   |___|  |_|\_\  |_| |_|  
+```
+
 ---
 
 <picture>
