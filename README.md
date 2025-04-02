@@ -16,7 +16,7 @@
 ## 📫 Let's Connect
 
 - Email: [shaikhsaad256@gmail.com](mailto:shaikhsaad256@gmail.com)
-- Resume: [Saad Shaikh - CV](https://drive.google.com/export=download&id=FILE_IDfile/d/1N2JWVo4ynEAEsJqwgFz2jmcy77lS4zHt/view?usp=sharing)
+- Resume: [Saad Shaikh - CV](https://drive.google.com/uc?export=download&id=1N2JWVo4ynEAEsJqwgFz2jmcy77lS4zHt)
 - Website: [Saad Shaikh](https://saad-shaikh.vercel.app/)
 
 ## 🫱🏼‍🫲🏼 Socials
