@@ -1,6 +1,8 @@
+![Saad Shaikh](Cover.png)
+
 # Hey there! I'm Saad 👋
 
-#### Jr. UI/UX Designer | Frontend Developer | AI First Designer
+### Jr. UI/UX Designer | Frontend Developer | AI First Designer
 
 ## About Me
 
@@ -68,3 +70,5 @@ When I’m not coding or designing, you’ll probably find me:
 ## 🤝 Let's Collaborate
 
 Feel free to reach out if you'd like to collaborate or discuss projects related to UI design, frontend development, or brand identity work. Always happy to connect and build cool stuff together.
+
+![Designer](Designer.png)
